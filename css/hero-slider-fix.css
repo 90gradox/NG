@@ -1,0 +1,2 @@
+/* Explicit slide sources keep the hero independent from the legacy single background. */
+.hero-media:nth-child(1){background-image:url('../images/hero-slide-01.jpg')!important}.hero-media:nth-child(2){background-image:url('../images/hero-slide-02.jpg')!important}.hero-media:nth-child(3){background-image:url('../images/hero-slide-03.jpg')!important}
